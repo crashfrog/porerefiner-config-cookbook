@@ -25,7 +25,7 @@ Here's my entire config.yaml:
       socket: /Users/justin.payne/.porerefiner/socket
       use_ssl: false
     submitters:
-      - class: HpcSubmitter
+    - class: HpcSubmitter
       config:
         login_host: login1-raven2.fda.gov
         username: nanopore
